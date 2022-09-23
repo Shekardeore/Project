@@ -69,7 +69,7 @@ function Footer() {
                 </span>
                 <span>
                   <a href="https://goo.gl/maps/vnPwFCiyBiC2DrWJ9">
-                    Cdac Mumbai
+                    Infoway Pune
                   </a>
                   <br />
                 </span>
@@ -92,7 +92,7 @@ function Footer() {
                 </span>
                 <span>
                   <a href="moview.reviews@gmail.com">
-                    e-Samadhan_forum@gmail.com{" "}
+                    e-Desk6698@gmail.com{" "}
                   </a>
                   <br />
                 </span>

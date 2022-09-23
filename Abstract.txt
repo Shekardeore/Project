@@ -1,0 +1,13 @@
+The Project is developed with keeping in mind to make the process more smooth as compared 
+with the physical one. The process where people are supposed to go the office of E-Desk & 
+lodge a complaint in the respective Department. There were many incidents which makes it clear that there 
+is no proper communication between the government and public & there is also a lack of efficient way to 
+solve the public problems. The problems of public gets enrolled in the files and travels from desk to desk, 
+office to office.
+Our web application is a way to overcome this problem by providing grievances to the government. It 
+will reduce the dependency of people on the government officials to forward their complains & they will be 
+able to keep track of the status of their complaints. It will also help the officials to look into the matter in the 
+brief period of time. It acts as interface to register one’s complained and follow it up and also it provides a 
+complaint module which helps entering text information along with the complaint.
+The scope of this project is focused on designing & implementing a web based system for online user complaints 
+by using innovative technologies such as Springboot, MySQL & ReactJS

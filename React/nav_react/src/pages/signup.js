@@ -213,8 +213,7 @@ function SignUp() {
                 placeholder="Enter Your Adhar no."
                 {...register("addharNo", {
                   required: true,
-                  min: 12,
-                  max:12,
+                  min: 12
                 })}
               />
               {errors.addharNo && errors.addharNo.type === "required" && (

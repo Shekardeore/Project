@@ -32,7 +32,7 @@ function SignIn() {
           window.location.href = "/user/homepage";
         }
         if (response.data.user.userRole === "admin")
-          window.location.href = "/admin/viewcomplaints";
+          window.location.href = "/admin/homepage";
       })
       .catch((error) => {
         console.log(error.response.data.result);
@@ -57,7 +57,7 @@ function SignIn() {
         className="container py-5"
         style={{ width: "40vw", backgroundColor: "rgba(0,0,0,0.4)" }}
       >
-        <div className="alert  alert-light  bg-dark  text-center mt-5 h2 text-light">
+        <div className="alert  alert-light  bg-dark  text-center mt-5 h2 text-light"> 
           <b> Login Here</b>
         </div>
       {/* <img src={img} alt="img1" /> */}
